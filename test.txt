@@ -1,0 +1,18 @@
+python -m venv .venv
+
+para entrar no ambiente virtual
+.venv\Scripts\activate
+
+para sair do ambiente virtual
+deactivate
+
+
+pip install requests
+
+pip install python-dotenv #para usar o .env
+
+pip freeze > requirements.txt #para criar o requirements.txt
+
+
+
+
